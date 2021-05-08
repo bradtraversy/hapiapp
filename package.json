@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "handlebars": "^4.5.3",
+    "handlebars": "^4.7.7",
     "hapi": "^18.1.0",
     "inert": "^5.1.3",
     "mongoose": "^5.8.3",
